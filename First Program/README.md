@@ -6,8 +6,9 @@
 
 # Development Environment
 
-{VS code}
-{VS code}
+- VS Code
+- Python 3.13.1
+- Git / GitHub
 
 {Describe the programming language that you used}
 
