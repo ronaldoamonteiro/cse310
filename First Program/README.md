@@ -1,18 +1,13 @@
 # Overview
 
-{This is a Hello World program}
-
-{In this software you will print "Hello World"}
-
-{The purpose of this software is to test if everythig is working well and set up correctly.}
-
-{Provide a link to your YouTube demonstration.  It should be a one minute demo of the software running and a walkthrough of the code.}
+{This is a basic Hello World program. I created this to demonstrate the use of VS Code, GitHub, and Python integrated together.}
 
 [Software Demo Video](http://youtube.link.goes.here)
 
 # Development Environment
 
-{Describe the tools that you used to develop the software}
+{VS code}
+{VS code}
 
 {Describe the programming language that you used}
 
